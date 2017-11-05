@@ -24,3 +24,9 @@ hs_err_pid*
 #Eclipse File
 .metadata/
 RemoteSystemsTempFiles/
+.classpath
+.project
+
+#Maven
+target/
+.settings/
